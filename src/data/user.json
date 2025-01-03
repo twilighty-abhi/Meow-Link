@@ -1,0 +1,36 @@
+{
+	"name": "Abhiram NJ",
+	"profession": "A guy on the internet",
+	"links": [
+		{
+			"url": "https://abhiramnj.com",
+			"icon": "id-card-fill",
+			"title": "Personal Portfolio",
+			"description": "a brief about me"
+		},
+		{
+			"url": "https://blog.abhiramnj.com",
+			"icon": "chat-quote-line",
+			"title": "Blog",
+			"description": "A micro blog with some life things!"
+		},
+		{
+			"url": "https://yeartrack.abhiramnj.com",
+			"icon": "timer-2-line",
+			"title": "Year progress tracker",
+			"description": "a simple year tracker with pomodoro support"
+		},
+		{
+			"url": "https://twilighty.substack.com/",
+			"icon": "file-list-3-fill",
+			"title": "Newsletter",
+			"description": "Some wise knowledge"
+		},
+		{
+			"url": "https://qr.abhiramnj.com",
+			"icon": "link",
+			"title": "QR Code Generator",
+			"description": "Minimal QR code generator"
+		}
+	]
+}
