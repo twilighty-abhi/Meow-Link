@@ -1,11 +1,6 @@
 # Astrolink: Template to share about yourself
 
-```sh
-git clone https://github.com/alamguardin/Astrolink.git
-```
 
-
-![Preview](/src/assets/screenshot-app.png)
 
 ## 🚀 How to change the content?
 
